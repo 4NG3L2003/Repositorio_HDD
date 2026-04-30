@@ -13,4 +13,5 @@ class Estudiante(Persona):
 
 # estudiante1 = Estudiante("Juan Perales", 45, "R Studio")
 # estudiante1 = Estudiante("2", 22, "Python")
+# estudiante1 = Estudiante("3", 22, "Python")
 # print(estudiante1)
